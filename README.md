@@ -59,4 +59,9 @@
     clear(): Removes all elements from the vector.
     insert(iterator, value): Inserts an element at the specified position.
     erase(iterator): Removes the element at the specified position.
-
+# Priority Queue
+    push(value): Inserts an element with its priority.
+    pop(): Removes and returns the element with the highest priority.
+    top(): Returns the element with the highest priority without removing it.
+    empty(): Checks if the queue is empty.    
+    size(): Returns the number of elements in the queue.
