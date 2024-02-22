@@ -3,8 +3,9 @@
 
 # Queue
 
+
     push(value): Adds an element to the back of the queue.
-    pop(): Removes and returns the element at the front of the queue.
+    `pop()`: Removes and returns the element at the front of the queue.
     front(): Returns a reference to the element at the front without removing it.
     empty(): Checks if the queue is empty.
     size(): Returns the number of elements in the queue.
